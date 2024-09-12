@@ -12,7 +12,7 @@ I decided to publish it so that you can use it to make the special people in you
 You can create your very own happy-birthday page in a few easy steps:
 
 * Fork the repository
-* Open `customize.json` and replace the content with your own
+* Open `customize.json` and replace the content with your ow
 * Turn on GitHub pages for your repository (Settings > Pages)
 * Share the URL you get at the above step with your friend
 
@@ -31,3 +31,4 @@ I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap)
 If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
 Happy wishing! 🎉
+Forzar una nueva construcción
